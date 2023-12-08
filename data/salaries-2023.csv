@@ -1,4 +1,6 @@
 language,city,level,years_of_experience,salary
+php,lt,,10,1
+,,1,2,3
 php,UK,3,10,3000
 .net,Danija,2,10,2700
 php,Vilnius,3,10,2800
